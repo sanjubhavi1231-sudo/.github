@@ -1,197 +1,253 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng4TVyx/giphy.gif" width="35px"> Welcome! I'm Sanjana Bisht
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrng4TVyx/giphy.gif" width="40px"> **Bisht Sanjana Krishna**
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/bisht-sanjana-krishna)](https://linkedin.com/in/bisht-sanjana-krishna)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sanjubhavi1231@gmail.com)](mailto:sanjubhavi1231@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/sanjubhavi1231-sudo)](https://github.com/sanjubhavi1231-sudo)
-  [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:7302230538)
+
+### 🎨 **Creative Designer | Developer | BCA Student** 🎨
+
+```
+█████████████████████████████████████████
+   Welcome to My Creative Portfolio
+█████████████████████████████████████████
+```
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Creative+Designer+%2B+Developer;Graphic+Design+Enthusiast;BCA+Student+@+PCTM;Quick+Learner+%26+Team+Player" alt="Typing Animation" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bisht-sanjana-krishna)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjubhavi1231@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjubhavi1231-sudo)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917302230538)
+
 </div>
 
 ---
 
-## 🌟 About Me
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqKSJFQ/giphy.gif" width="250px" alt="Designer gif">
-
-```
-🎨 Creative Designer | 💻 Aspiring Developer | 🚀 Tech Enthusiast
-```
-
-I'm a **BCA student** from **Pal College of Technology and Management** with a passion for **graphic designing** and **learning new technologies**. 
-
-- 🎯 Currently pursuing **Bachelor of Computer Applications (2024-2027)**
-- 🎨 Specialized in **Canva & Graphic Designing**
-- 🌍 Based in **Haldwani, Uttarakhand**
-- 💡 Quick learner with a creative mindset
-- 🤝 Love collaborating on exciting projects
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=22&duration=4000&pause=500&color=FF1493&center=true&vCenter=true&width=700&lines=🎨+Graphic+Designer+%2B+Developer;✨+Creating+Beautiful+Digital+Experiences;🚀+Passionate+About+Learning+New+Tech;💡+Quick+Learner+%26+Creative+Thinker;🎯+BCA+Student+at+PCTM" alt="Typing SVG" />
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 🌟 **Hello! I'm Sanjana** 
+
+<img align="right" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="280px" alt="Sanjana Designer">
+
+```
+Hey there! 👋 I'm Sanjana, a creative designer and aspiring developer 
+who loves turning ideas into beautiful digital designs!
+
+📍 Location: Haldwani, Uttarakhand
+🎓 Education: BCA @ Pal College of Technology & Management (2024-2027)
+💼 Passion: Graphic Design + Web Development
+⚡ Superpower: Quick learner with a creative mind
+🎯 Goal: Creating amazing designs & solving problems with code
+```
+
+---
+
+## 🎨 **Creative & Technical Skills**
 
 <div align="center">
 
-### 🔧 Programming Languages
+### **💻 Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 
-### 🗄️ Database & Backend
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🎨 Design & Creative Tools
+### **🎨 Design & Creative Tools**
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
-### 📱 Other Tools
-![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+### **🗄️ Database & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 **My Featured Projects**
 
 <div align="center">
 
-### 📌 Poster & Invitation Designing
+### 🖼️ **Poster & Invitation Designing**
 
-| **Project** | **Description** | **Tools** |
-|---|---|---|
-| 🎨 **Creative Designs** | Professional posters, invitations & social media posts | Canva |
-| 🎭 **Visual Content** | Attractive layouts with modern typography & color schemes | Design Tools |
-| ✨ **Brand Assets** | Engaging designs for various purposes & audiences | Creative Suite |
+```
+┌────────────────────────────────────────────┐
+│  🎨 Creative Visual Content                │
+├────────────────────────────────────────────┤
+│  ✨ Professional Posters                   │
+│  📱 Social Media Content                   │
+│  💌 Invitation Designs                     │
+│  🎭 Brand Identity Assets                  │
+│  🌈 Typography & Color Theory              │
+└────────────────────────────────────────────┘
+```
 
-**Skills:** Canva Design • Typography • Color Theory • Layout Design • Creative Thinking
+**Skills Used:** 
+- **Canva** - Professional Design
+- **Photo Editing** - Visual Enhancement
+- **Typography** - Creative Text Design
+- **Color Theory** - Stunning Palettes
+- **Layout Design** - Perfect Composition
 
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 **Achievements & Awards**
 
 <div align="center">
 
-| Badge | Achievement |
-|-------|-------------|
-| 🎓 | **BCA Pursuing** - Pal College of Technology and Management (2024-2027) |
-| 📜 | **Digital Marketing Certification** - Professional Level |
-| 🥇 | **Intermediate (Class 12)** - 72.6% |
-| 🥈 | **High School (Class 10)** - 84% |
+| 🎓 **Education** | 📊 **Percentage** |
+|---|---|
+| **BCA** (Pursuing) | Pal College of Technology & Management (2024-2027) |
+| **Intermediate (12th)** | 📈 72.6% |
+| **High School (10th)** | 📈 84% |
+
+### **Certifications**
+- ✅ **Digital Marketing Certification** - Professional Level
 
 </div>
 
 ---
 
-## 🌈 Soft Skills
+## 💪 **Soft Skills & Qualities**
 
 <div align="center">
 
 ```
-💬 Communication      🤝 Teamwork         🎨 Creativity
-⚡ Quick Learner      ⏰ Time Management  👀 Attention to Detail
-🧠 Problem Solving   🎯 Goal Oriented    💪 Persistence
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  💬 Communication     🤝 Teamwork        ┃
+┃  🎨 Creativity        ⚡ Quick Learner   ┃
+┃  ⏰ Time Management   👀 Attention      ┃
+┃  🧠 Problem Solver   💪 Persistence    ┃
+┃  🎯 Goal Oriented    📈 Self Motivated  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
 </div>
 
 ---
 
-## 🎭 Hobbies & Interests
+## 🌈 **My Hobbies & Interests**
 
 <div align="center">
 
-| Activity | Emoji |
-|----------|-------|
-| Graphic Designing | 🎨 |
-| Poster Creation | 📱 |
-| Craft Making | 🧵 |
-| Painting | 🎭 |
-| Video Editing | 🎬 |
-| Photography | 📸 |
+| Activity | Emoji | Status |
+|----------|-------|--------|
+| **Graphic Designing** | 🎨 | 🔥 Passionate |
+| **Poster Creation** | 📱 | 🔥 Passionate |
+| **Craft Making** | 🧵 | ⭐ Interested |
+| **Painting** | 🎭 | ⭐ Interested |
+| **Video Editing** | 🎬 | ⭐ Learning |
+| **Photography** | 📸 | ⭐ Learning |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 **GitHub Statistics & Analytics**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjubhavi1231-sudo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=fff&title_color=FF6B9D&icon_color=FF6B9D)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjubhavi1231-sudo&show_icons=true&theme=radical&bg_color=0d1117&text_color=fff&title_color=FF1493&icon_color=FF1493&border_radius=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjubhavi1231-sudo&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=fff&title_color=FF6B9D)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjubhavi1231-sudo&layout=compact&theme=radical&bg_color=0d1117&text_color=fff&title_color=FF1493&border_radius=10)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjubhavi1231-sudo&theme=radical&hide_border=true&background=0d1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanjubhavi1231-sudo&theme=radical&background=0d1117&border_radius=10)
 
 </div>
 
 ---
 
-## 💡 What I'm Currently Doing
+## 🚀 **What I'm Currently Doing**
 
 <div align="center">
 
-> 🔄 **Learning:** Web Development & Advanced Design Tools
->
-> 🎯 **Building:** Portfolio Projects & Design Assets
->
-> 📚 **Exploring:** New Technologies & Design Trends
->
-> 🤝 **Open To:** Collaborations & Freelance Opportunities
+```
+📚 LEARNING
+  └─ Advanced Web Development Techniques
+  └─ UI/UX Design Principles
+  └─ Animation & Interactive Design
+
+🎯 BUILDING
+  └─ Portfolio Projects
+  └─ Design Assets & Templates
+  └─ Creative Content Collections
+
+🔥 EXPLORING
+  └─ New Design Trends
+  └─ Latest Technologies
+  └─ Digital Marketing Strategies
+
+🤝 OPEN TO
+  └─ Collaborations & Projects
+  └─ Freelance Opportunities
+  └─ Learning Partnerships
+```
 
 </div>
 
 ---
 
-## 🚀 Let's Connect & Collaborate!
+## 💼 **Let's Connect & Collaborate!**
 
 <div align="center">
 
-### 📱 Get in Touch
+### 🌐 **Get in Touch With Me**
 
-**📧 Email:** [sanjubhavi1231@gmail.com](mailto:sanjubhavi1231@gmail.com)  
-**💼 LinkedIn:** [Bisht Sanjana Krishna](https://linkedin.com/in/bisht-sanjana-krishna)  
-**🐙 GitHub:** [@sanjubhavi1231-sudo](https://github.com/sanjubhavi1231-sudo)  
-**📞 Phone:** [+91 7302230538](tel:7302230538)
+**📧 Email:** [sanjubhavi1231@gmail.com](mailto:sanjubhavi1231@gmail.com)
 
-Feel free to reach out for **collaborations, projects, or just to chat!** 😊
+**💼 LinkedIn:** [Bisht Sanjana Krishna](https://linkedin.com/in/bisht-sanjana-krishna)
+
+**🐙 GitHub:** [@sanjubhavi1231-sudo](https://github.com/sanjubhavi1231-sudo)
+
+**📱 WhatsApp:** [+91 7302230538](https://wa.me/917302230538)
+
+---
+
+```
+Feel free to reach out for:
+✨ Design Collaborations
+🎯 Project Partnerships
+💡 Creative Discussions
+🤝 Professional Networking
+```
 
 </div>
 
 ---
 
+## 🎊 **Thank You For Visiting!**
+
 <div align="center">
 
-### ⭐ If you find my work interesting, don't forget to star! ⭐
+<img src="https://media.giphy.com/media/LnQjwuZraDT9z3coPV/giphy.gif" width="70px">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sanjubhavi1231-sudo.sanjubhavi1231-sudo)
+### **⭐ Star This Profile if You Like It! ⭐**
 
-<img src="https://media.giphy.com/media/LnQjwuZraDT9z3coPV/giphy.gif" width="60px"> 
-
-**Made with ❤️ by Sanjana Bisht**
-
-**Happy Designing & Coding! 🎨💻🚀**
-
-</div>
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sanjubhavi1231-sudo.sanjubhavi1231-sudo&title=Profile%20Visitors)
 
 ---
 
-<div align="center">
+```
+Made with ❤️ & 🎨 by Bisht Sanjana Krishna
+Happy Designing & Coding! 🚀✨
+```
 
-### 🌟 Fun Fact
-*"Every great designer is also a problem solver!"* 🎨✨
+### 💫 **Fun Fact**
+> *"Every great designer solves a problem through creativity!"* 🎨✨
+
+---
+
+**Last Updated:** 2026-06-07 | **Status:** 🟢 Available for Collaborations
 
 </div>
