@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### 🎨 **Graphic Designer | Creative Developer | BCA Student** 🎨
+### 🎨 **Graphic Designer | Frontend Developer | BCA Student** 🎨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+Designing+Dreams;💻+Coding+Beauty;🎨+Creating+Magic" alt="Typing Animation">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+Designing+Dreams;💻+Building+Websites;🎨+Creating+Beauty;🖌️+Frontend+Magic" alt="Typing Animation">
 
 </div>
 
@@ -23,14 +23,15 @@
 ║                                                   ║
 ║  🎓 BCA Student @ Pal College of Tech & Mgmt    ║
 ║  🎨 Passionate Graphic Designer                 ║
-║  💻 Learning Web Development                    ║
+║  💻 Frontend Developer                          ║
+║  🖌️ Creating Beautiful Web Experiences         ║
 ║  ⚡ Creative Problem Solver                     ║
 ║  📱 Always Up for New Challenges!               ║
 ║                                                   ║
 ╚═══════════════════════════════════════════════════╝
 ```
 
-Creative and detail-oriented student passionate about graphic designing and web development. I love learning new technologies and creating visually appealing designs! 🌟
+Creative and detail-oriented BCA student passionate about graphic designing and frontend development. I love creating visually appealing and user-friendly web experiences! 🌟
 
 </div>
 
@@ -46,9 +47,14 @@ Creative and detail-oriented student passionate about graphic designing and web 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🔹 **Web Development**
+### 🔹 **Frontend Development**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🔹 **Database & Web**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔹 **Design Tools**
@@ -59,6 +65,8 @@ Creative and detail-oriented student passionate about graphic designing and web 
 ### 🔹 **Other Tools**
 
 ![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -79,6 +87,19 @@ Creative and detail-oriented student passionate about graphic designing and web 
 ┃  ✓ Attractive layouts & typography      ┃
 ┃  ✓ Color combinations & design          ┃
 ┃  ✓ Visually appealing designs           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+### 💻 **Frontend Development Projects**
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  🖥️ Building Beautiful Web Pages        ┃
+┃                                          ┃
+┃  ✓ Responsive HTML & CSS Websites       ┃
+┃  ✓ Interactive JavaScript Projects      ┃
+┃  ✓ User-Friendly Web Interfaces         ┃
+┃  ✓ Creative Coding Solutions            ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
@@ -136,6 +157,7 @@ Creative and detail-oriented student passionate about graphic designing and web 
 | 🎯 **Interest** | 📍 **Status** |
 |:---:|:---|
 | 🎨 Graphic Designing | 🔥 Passionate |
+| 💻 Frontend Development | 🔥 Passionate |
 | 📱 Poster Designing | 🔥 Passionate |
 | 🧵 Craft Making | ⭐ Active |
 | 🎭 Painting | ⭐ Active |
@@ -166,7 +188,7 @@ Creative and detail-oriented student passionate about graphic designing and web 
 
 <div align="center">
 
-> *"Every design I create tells a story, every line of code I write solves a problem, and together they create magic!"* 🎨💻✨
+> *"Every design I create tells a story, every line of code I write builds beauty, and together they create magic!"* 🎨💻✨
 
 **Phone:** 7302230538 | **Location:** Haldwani, Uttarakhand 🏔️
 
