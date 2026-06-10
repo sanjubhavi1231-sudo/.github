@@ -14,8 +14,6 @@
 
 <div align="center">
 
-<img align="left" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="180px" alt="Designer GIF" style="border-radius: 50%; border: 3px solid #FF69B4; margin-right: 20px;">
-
 ```
 ╔═══════════════════════════════════════════════════╗
 ║                                                   ║
