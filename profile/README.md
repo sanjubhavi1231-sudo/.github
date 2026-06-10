@@ -4,7 +4,7 @@
 
 ### 🎨 **Graphic Designer | UI/UX Designer | Frontend Developer | BCA Student** 🎨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=700&lines=✨+Designing+Dreams;🎨+UI%2FUX+Magic;💻+Frontend+Code;🖌️+Creating+Beauty" alt="Typing Animation">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=700&lines=✨+Designing+Dreams;🎨+UI%2FUX+Magic;💻+Frontend+Development" alt="typing">
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img align="right" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="250px" alt="Designer GIF" style="border-radius: 50%; border: 3px solid #FF69B4;">
+<img align="left" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="180px" alt="Designer GIF" style="border-radius: 50%; border: 3px solid #FF69B4; margin-right: 20px;">
 
 ```
 ╔═══════════════════════════════════════════════════╗
@@ -50,6 +50,8 @@ Creative and detail-oriented BCA student passionate about graphic designing, UI/
 ### 🔹 **Frontend Development**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🔹 **Database & Web**
 
@@ -58,6 +60,7 @@ Creative and detail-oriented BCA student passionate about graphic designing, UI/
 ### 🔹 **Design Tools**
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photo Editing](https://img.shields.io/badge/Photo%20Editing-FF69B4?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 ### 🔹 **Other Tools**
